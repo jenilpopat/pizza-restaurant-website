@@ -18,7 +18,7 @@
 
 --->
 
-<p align="center"> Few lines describing your project.
+<p align="center"> my project is responsive website.
     <br> 
 </p>
 
